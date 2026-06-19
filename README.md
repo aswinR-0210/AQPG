@@ -1,6 +1,8 @@
 # AQPG - Automated Question Paper Generation System
 
-AQPG is a local-first AI pipeline that:
+AQPG (Automated Question Paper Generation System) was developed as a final-year academic team project.
+
+It is a local-first AI pipeline that:
 
 1. Extracts module/topics from a syllabus PDF.
 2. Extracts and chunks content from a textbook PDF.
@@ -11,6 +13,15 @@ AQPG is a local-first AI pipeline that:
 The project is designed to run fully on your machine (with Ollama + local/inferred model loading), so textbook/syllabus content does not need to leave your local environment.
 
 ---
+
+
+### My Contributions
+
+* Developed and tested the semantic mapping workflow using Sentence-BERT (SBERT).
+* Worked on PDF extraction, chunking, and content preprocessing pipelines.
+* Contributed to question generation and Bloom's Taxonomy classification workflows.
+* Participated in backend integration, debugging, model evaluation, and system testing.
+* Assisted in documentation, deployment, and end-to-end pipeline validation.
 
 ## Documentation Index
 
