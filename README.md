@@ -2,8 +2,6 @@
 
 AQPG (Automated Question Paper Generation System) was developed as a final-year academic team project.
 
-It is a local-first AI pipeline that:
-
 1. Extracts module/topics from a syllabus PDF.
 2. Extracts and chunks content from a textbook PDF.
 3. Semantically maps syllabus topics to textbook chunks.
